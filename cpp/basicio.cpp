@@ -1,10 +1,11 @@
 #include <iostream>
 
 using namespace std ;
+
 int main (){
 //variables
 int age ;
-float height;
+float height; 
 char initial ;
 string name ;
 //inputs
